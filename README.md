@@ -2,8 +2,10 @@
 
 # csv2geojson
 
-Converts [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) and [TSV](http://en.wikipedia.org/wiki/Tab-separated_values)
+Converts your raw data: [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) and [TSV](http://en.wikipedia.org/wiki/Tab-separated_values)
 files into [GeoJSON](http://www.geojson.org/) data suitable for maps..
+
+
 
 ## Using as a binary:
 
